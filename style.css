@@ -1,0 +1,74 @@
+body {
+  background-color: #140f0f;
+}
+
+.base {
+  border: 1px solid #140f0f; 
+  border-radius: 2px;
+  margin-top: 150px;
+  background-color: #2e2e2e;
+  height: 400px;
+  width: 320px;
+  box-shadow: 300px;
+  box-shadow: 10px 15px #242424;
+
+  
+}
+
+#user {
+  
+  color: #b26cec;
+  margin-top: 10px;
+}
+
+#username {
+  background-color: #140f0f;
+  color: white;
+  border: 1px solid #140f0f; 
+  border-radius: 3px;
+  margin-bottom: 20px;
+  width: 250px;
+  height: 35px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+#password {
+  background-color: #140f0f;
+  color: white;
+  border: 1px solid #140f0f; 
+  border-radius: 3px;
+  margin-bottom: 20px;
+  width: 250px;
+  height: 35px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+#button {
+  background-color: #b26cec;
+  border: 1px solid #b26cec; 
+  border-radius: 3px;
+  margin-bottom: 20px;
+  width: 250px;
+  height: 40px;
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+.login {
+  color: white ;
+  font-family: 'Noto Sans', sans-serif;
+  
+}
+
+label {
+  margin-right: 50px;
+}
+
+.profile {
+  margin-top: 10px;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+}
+
